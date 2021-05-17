@@ -1,0 +1,4 @@
+In the makefile for the run command, specify the command line parameters 
+
+run: 
+	java -cp bin/ WordApp <total words> <words on screen> <dictionary file>
